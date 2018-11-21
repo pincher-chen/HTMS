@@ -1,5 +1,6 @@
 # 1.Input files
 ```
+#Four basis files
 INCAR POSCAR POTCAR KPOINTS
 ```
 ## 1.1.How to get INCAR
