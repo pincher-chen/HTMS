@@ -35,6 +35,12 @@ LDAUJ=0.00 0.00 0.00  #important, empirical method
 LDAUPRINT=2
 LMAXMIX=6
 ```
+- struture optimization
+- static energy calculation
+- DFT + U
+- HSE06
+
+
 ## 1.2.How to get POSCAR
 ## 1.3.How to get POTCAR
 ## 1.4.How to get KPOINTS
