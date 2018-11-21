@@ -1,13 +1,13 @@
-# Input files
+# 1.Input files
 ```
 INCAR POSCAR POTCAR KPOINTS
 ```
-## how to get INCAR
-## how to get POSCAR
-## how to get POTCAR
-## How to get KPOINTS
+## 1.1.How to get INCAR
+## 1.2.How to get POSCAR
+## 1.3.How to get POTCAR
+## 1.4.How to get KPOINTS
 
-# Analysis
-## DOS
-## Charge density difference
-## Band Structure
+# 2.Analysis
+## 2.1.DOS
+## 2.2.Charge density difference
+## 2.3.Band Structure
