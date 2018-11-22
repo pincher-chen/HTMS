@@ -20,12 +20,25 @@ EDIFF=1E-05
 LREAL=Auto
 ALGO=Fast
 GGA=PE  #important, be consistent with you pseudopotential.
+
+
+
+```
+- struture optimization
+```
 IBRION=2
 NSW=500
 EDIFFG=-1E-02
 ISIF=2  #important, fixed lattice or not
 SYMPREC=1E-8
-
+```
+- static energy calculation
+```
+IBRION=-1
+NSW=0
+```
+- DFT + U
+```
 #the parameter for LDA+U OR GGA+U
 LDAU=.TRUE.
 LDAUTYPE=2
@@ -35,9 +48,6 @@ LDAUJ=0.00 0.00 0.00  #important, empirical method
 LDAUPRINT=2
 LMAXMIX=6
 ```
-- struture optimization
-- static energy calculation
-- DFT + U
 - HSE06
 
 
